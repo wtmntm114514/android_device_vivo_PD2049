@@ -1,0 +1,11 @@
+ro.vendor.vivo.product.model=PD2049
+ro.vivo.product.model=PD2049
+ro.vivo.hardware.version=PD2049MA
+ro.hardware.bbk=PD2049MA
+ro.vivo.os.version=13.5
+ro.vivo.oem.name=PD2049B_CN-ZH_FULL_SC_NULL
+ro.adb.secure=0
+ro.debuggable=0
+vendor.gatekeeper.disable_spu=true
+ro.charger.enable_suspend=1
+ro.dynamic.full_size=9126805504
